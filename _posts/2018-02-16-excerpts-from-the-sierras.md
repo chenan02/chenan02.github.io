@@ -4,7 +4,7 @@ layout: post
 The following are excerpts from my journal hiking the John Muir Trail:  
   
 - - -  
-9 August 2017 - Big Springs Campground, CA
+9 August 2017 - Big Springs Campground, CA  
 What the fuck was I doing here? Why did I think I could just roll in without a plan?  
 [...]  
 I take a nap. When I wake, I think logically: I am doing te exact same thing I would at home, only I have displaced myself: I am simply existing.  
@@ -36,14 +36,14 @@ The key to happiness is trying to be happy. Happy thoughts will not come to you 
   
 - - -  
 9/5/17 - Vogelsang Backpackers' Camp  
-When She left, everything was silent. Oppressive, waiting for me to fold. I was scared. I've heard it before - when I first came to Mammoth, alone. And now I was to become comfortable w/ just myself, again. Back to square one.  
+When she left, everything was silent. Oppressive, waiting for me to fold. I was scared. I've heard it before - when I first came to Mammoth, alone. And now I was to become comfortable w/ just myself, again. Back to square one.  
   
 - - -  
 9/8/17 - Glacier Point, Last night on the trail  
 [...]  
 I was so, so proud of myself, of who I've become  
 [...]  
-Because our actions make up who we are, and I decided, I cose, to be here, looking out on the Yosemite Valley, at the end of a 300 mile trail.  
+Because our actions make up who we are, and I decided, I chose, to be here, looking out on the Yosemite Valley, at the end of a 300 mile trail.  
   
 So to me, being a man isn't about how old you are or what you know. It's about having found youself, and being damn proud of who you've become.  
 [...]  
