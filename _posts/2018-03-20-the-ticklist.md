@@ -13,7 +13,7 @@
 13. Twinkie, Red River Gorge (5.12a)
 14. The Original Route, Red Rock (5.12a, 14p)
 15. Super Slab, Red River Gorge (5.12c)
-16. Regular Northwest Face of Half Dome, Yosemite (5.12c?)
+16. Regular Northwest Face of Half Dome, Yosemite (5.12c?, 23p)
 17. Aegialis, Kalymnos (5.12d)
 18. Moonlight Buttress, Zion (5.12d, 10p)
 19. Peace, Tuolumne Meadows (5.13c, 2p)
