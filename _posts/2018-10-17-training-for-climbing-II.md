@@ -50,13 +50,13 @@ Including climbing 4 days a week. "Dude, isn't that alot of abs and lats?" You a
 But not good for long. After working at my plateau for a couple months, my body began to burn out mid-week - I would come in Wednesday, out of habit, sore and not able to pull nearly as much as my Monday session. I felt unmotivated and dragged out my sets. I felt my climbing waning. 
  
 I once read an article from Steve Bechtel, a huge advocate for lifting for climbing. For all his advocating, he warns, Remember that you're a climber who lifts, not a lifter who climbs. I felt that I was falling under this trap, though I justified it with numbers such as his own here: https://www.trainingbeta.com/weight-lifting-guidelines-with-steve-bechtel/, where he recommends to work up to somthing like 75% of body weight for pullups. Let's step back and do the math. I weigh about 140lbs, so to meet that mark I would hang more than 100lbs off me. That's absurd! Yet I was so far from that guideline that I continued to press on. 
- 
-Eventually, I turned it down to a "more manageable" schedule: 
-Mon: Antagonists 
-Tue: Abs + deadlift - climb later 
-Wed: Agonists 
-Thu: Abs - climb later 
-(climb weekends) 
+  
+Eventually, I turned it down to a "more manageable" schedule:  
+Mon: Antagonists  
+Tue: Abs + deadlift - climb later  
+Wed: Agonists  
+Thu: Abs - climb later  
+(climb weekends)  
  
 Despite hitting the non-core groups only once a week, I didn't notice a decrease in strength. Certainly not an increase, but I figure that I'm already stronger than most climbers at my level; my physical strength is certainly not a weakness for these routes. Even this schedule is quite taxing; because I'm still spending 1.5 hours in the gym, I'm working only shoulders and chest for that entire time, for instance. Heavy shoulder shrugs seem to comepletely wreck me for the next few days; I need to learn to not always go 100% my entire time, or just get in later.  
  
