@@ -42,4 +42,14 @@ The percentage allocation varies on your risk tolerance, with more risky in the 
   
 5. Take advantage of tax-advantaged accounts  
   
-401k, Roth IRA, etc.
+It seems like taxes are the bane of the FIRE community. Like people have found all sorts of exploitations in the tax code, and I've heard of some early retirees who don't pay taxes at all. As someone who voted for Bernie in the last primary, I'm not sure if I agree with this ethically, but it can be done. Basically, tax-advantaged accounts like the 401k and IRAs are your friends - they're a way to let your investments grow without paying taxes on your gains. (As opposed to assets in a brokerage account, where you pay 20-30% on gains for stocks held less than a year and ~15% for those held over year) That's like getting getting a ~20% jump in your share prices right off the bat!  
+  
+So how to do this. They say you should put your money in the order of the following:  
+  a. Contribute enough to your 401k to get the company match  
+  b. Max out your IRA  
+  c. Top out the 401k with to least 15%, or more if you're looking to take advantage of conversions (discussed in another post)  
+And use that money to invest in low-expense index funds, as described above.
+  
+Roth or Traditional? There's so many debates on this. Roth means you fund the account with money already taxed at your current income level, Traditional means the money isn't taxed now but you will need to pay it at the bracket you'll be at when you retire. The math works out the same: you'll have a bigger seed to start with in traditional, but will pay a bigger tax because of that. Therefore, you can deduce that to be tax-efficient, you'd choose traditional if you think you'll make more now (and therefore at a lower bracket in retirement), vs traditional if you think you'll make more later. There are other arguments like tax rates rising and effective vs marginal tax rates but w/e. One thing to note, however, is that Roth is a little more flexible because you can withdraw CONTRIBUTIONS (not gains) at any time without penalty. 
+  
+What people in the FIRE community generally suggest is to have a traditional 401k (you'll be at the lowest tax bracket in early retirement) and a roth IRA (as that's what you'll end with, and if you have a 401k and earn enough then you can't make tIRA contributions deductible anyways). They'll also suggest you max out both.
