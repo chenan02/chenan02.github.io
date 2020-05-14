@@ -1,3 +1,6 @@
+---
+layout: post
+---
 There are 5 5.12ds that I'd like to try (and hopefully send) before leaving the East Coast:  
 Jesus Wept, RRG  
 Triple Sec, RRG  

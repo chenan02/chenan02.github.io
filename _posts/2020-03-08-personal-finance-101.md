@@ -1,3 +1,6 @@
+---
+layout: post
+---
 Personal Finance 101  
   
 There's a pretty good summary diagram of this post here: https://i.imgur.com/c0p24cU.png  

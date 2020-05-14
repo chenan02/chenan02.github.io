@@ -1,3 +1,6 @@
+---
+layout: post
+---
 Update for December 2019  
   
 Spent the last few months being a groupie and jumping around climbing fests and whatnot, which was pretty fun and somewhat exhausting. Let's see...  

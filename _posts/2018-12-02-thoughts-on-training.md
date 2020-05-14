@@ -1,3 +1,6 @@
+---
+layout: post
+---
 This fall I drove to the Red or the New almost every weekend. For the red, 9 hours; the new, 5. That's alot of podcasts.  
 I listen to mostly the Training Beta Podcast, hosted by Neely Quinn, and the Power Company Podcast, hosted by Kris Hampton. Most of the episodes are meh, but the following are a few nuggets I've gleamed:
 

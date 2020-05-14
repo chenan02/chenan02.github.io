@@ -1,3 +1,6 @@
+---
+layout: post
+---
 Andrew's Omnibus of Climbing Training - 2019
 
 1. Energy Systems

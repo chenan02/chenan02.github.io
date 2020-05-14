@@ -1,3 +1,6 @@
+---
+layout: post
+---
 Personal Finance 102 (or, How to be Tax-Efficient)  
   
 As said in Personal Finance 101, it seems like taxes are the bane of the FIRE community. I never really thought about taxes before the last couple weeks, but I figured that it would be good to become savvy so I'm not completely clueless when filling out my return. A couple of concepts before we dive in:  

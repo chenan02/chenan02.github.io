@@ -1,3 +1,6 @@
+---
+layout: post
+---
 As mentioned in the last post, I kinda got into making bread. I've been looking for a hobby I can do outside of climbing and snowboarding, I guess this can be one of them. This post is to share what I've learned so far.  
   
 So first thing's first - the ingrediants. Bread is often made of just 4 ingrediants:  
