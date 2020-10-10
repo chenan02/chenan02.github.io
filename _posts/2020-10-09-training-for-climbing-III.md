@@ -20,13 +20,13 @@ I'm not saying not to strength condition. There's no doubt that strengthening is
 Previously, I believed that you needed to condition your body for the next level before you can climb at the next level. But this robs you of the process of finding sneaky beta, trusting bad feet, and just in general learning to move well. We all know several gym bros who smash through the pink one in the corner without putting their foot on. After climbing with several of those guys, I believe the opposite is true: learn to climb better with the conditioning you have, then hit the gym if needed. Because let's be honest, you've never fallen off a route because you weren't able to do a pull-up.  
   
 If I were to make a workout now, it would look something like Brian Suntay's from the Training Beta Podcast (https://www.trainingbeta.com/brian-suntay-an-offseason-route-climbing-training-program/). The focus would be less climbing, less conditioning, more intensity:  
-Sun: Climb - strength/power endurance (circuits, lead, hangboard)
-Mon: Rest
-Tue: Climb - power (Limit boulder, board, campus, etc)
-Wed: Rest
-Thur: Condition/rest (antagonists, maybe deadlifts, ab wheel, one-arm lockoffs)
-Fri: Climb - whatever your weakness is. For me, it's power
-Sat: Rest
+Sun: Climb - strength/power endurance (circuits, lead, hangboard)  
+Mon: Rest  
+Tue: Climb - power (Limit boulder, board, campus, etc)  
+Wed: Rest  
+Thur: Condition/rest (antagonists, maybe deadlifts, ab wheel, one-arm lockoffs)  
+Fri: Climb - whatever your weakness is. For me, it's power  
+Sat: Rest  
   
 I think most people feel good climbing 3-4 times a week, or every other day. After not climbing that frequently living at the New and still progressing, I think it's more optimal to have more rest at 3 days max, especially if I'm upping the intensity.  
   
