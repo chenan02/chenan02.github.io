@@ -28,6 +28,6 @@ Thur: Condition/rest (antagonists, maybe deadlifts, ab wheel, one-arm lockoffs)
 Fri: Climb - whatever your weakness is. For me, it's power  
 Sat: Rest  
   
-I think most people feel good climbing 3-4 times a week, or every other day. After not climbing that frequently living at the New and still progressing, I think it's more optimal to have more rest at 3 days max, especially if I'm upping the intensity.  
+I think most people feel good climbing 3-4 times a week, or every other day. After not climbing that frequently living at the New and still progressing, I think it's more optimal to have more rest at 3 days max, especially if I'm giving it all during my sessions. Similarly, I think it's important to prioritize rest, hydration, and diet. Stop "burning out" on the hangboard till gym close! I used to do that and wouldn't get back home till midnight, and getting maybe 5 hours of sleep a night. You're just robbing yourself! Retire when your power drops (this could be like 2 hours. NOT when youve pumped yourself to failure), drink a protein shake, and get at least 8 hours of sleep. I promise you'll get stronger even if you don't feel sore the next day. 
   
 fin.
